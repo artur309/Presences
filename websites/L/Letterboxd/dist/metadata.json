@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "TheBadMushroom PT",
+    "id": "290120014936276993"
+  },
+  "service": "Letterboxd",
+  "description": {
+    "en": "Letterboxd lets you keep track of every film you’ve seen, so you can instantly recommend one the moment someone asks, or check reactions to a film you’ve just heard about. We’re a global community of film fans who live to discuss, rate and rank what we watch."
+  },
+  "url": [
+    "letterboxd.com"
+  ],
+  "version": "2",
+  "logo": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Letterboxd_logo_%282018%29.png",
+  "color": "#202830",
+  "tags": [
+    "social",
+    "media"
+  ],
+  "category": "socials"
+}
